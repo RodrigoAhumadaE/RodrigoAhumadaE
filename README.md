@@ -1,5 +1,5 @@
 <style>
-    .icono a{
+    .iconos a{
         text-decoration: none;
     }
 </style>
