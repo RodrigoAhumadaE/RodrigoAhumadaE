@@ -1,9 +1,3 @@
-<style>
-    .iconos a{
-        text-decoration: none;
-    }
-</style>
-
 <h1 align="center">Hi 👋, I'm Rodrigo Ahumada</h1>
 <h3 align="center">Frontend-focused C# .NET full-stack developer with React JS experience</h3>
 
